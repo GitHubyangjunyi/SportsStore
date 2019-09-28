@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>3B4BF58C-7221-4217-91FA-4E3E4BB040CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>3B4BF58C-7221-4217-91FA-4E3E4BB040CC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>SportsStore-asaasabfwuuvmygpjpvelrmcxiwf</string>
+			<key>timeStartedRecording</key>
+			<real>591328739.51955795</real>
+			<key>timeStoppedRecording</key>
+			<real>591328741.39699602</real>
+			<key>title</key>
+			<string>Build target SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>3B4BF58C-7221-4217-91FA-4E3E4BB040CC</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
