@@ -13,6 +13,8 @@
 		1C951D44233E3DC600BA03A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C951D42233E3DC600BA03A6 /* Main.storyboard */; };
 		1C951D46233E3DC700BA03A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C951D45233E3DC700BA03A6 /* Assets.xcassets */; };
 		1C951D49233E3DC700BA03A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C951D47233E3DC700BA03A6 /* LaunchScreen.storyboard */; };
+		1CF2A1BC234481BD0081CA3A /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF2A1BB234481BD0081CA3A /* Utils.swift */; };
+		1CF2A1BE234483860081CA3A /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF2A1BD234483860081CA3A /* Product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		1C951D45233E3DC700BA03A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C951D48233E3DC700BA03A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C951D4A233E3DC700BA03A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1CF2A1BB234481BD0081CA3A /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		1CF2A1BD234483860081CA3A /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,13 +60,15 @@
 		1C951D3B233E3DC600BA03A6 /* SportsStore */ = {
 			isa = PBXGroup;
 			children = (
+				1C951D4A233E3DC700BA03A6 /* Info.plist */,
 				1C951D3C233E3DC600BA03A6 /* AppDelegate.swift */,
+				1CF2A1BD234483860081CA3A /* Product.swift */,
 				1C951D3E233E3DC600BA03A6 /* SceneDelegate.swift */,
+				1CF2A1BB234481BD0081CA3A /* Utils.swift */,
 				1C951D40233E3DC600BA03A6 /* ViewController.swift */,
-				1C951D42233E3DC600BA03A6 /* Main.storyboard */,
 				1C951D45233E3DC700BA03A6 /* Assets.xcassets */,
 				1C951D47233E3DC700BA03A6 /* LaunchScreen.storyboard */,
-				1C951D4A233E3DC700BA03A6 /* Info.plist */,
+				1C951D42233E3DC600BA03A6 /* Main.storyboard */,
 			);
 			path = SportsStore;
 			sourceTree = "<group>";
@@ -140,7 +146,9 @@
 			files = (
 				1C951D41233E3DC600BA03A6 /* ViewController.swift in Sources */,
 				1C951D3D233E3DC600BA03A6 /* AppDelegate.swift in Sources */,
+				1CF2A1BE234483860081CA3A /* Product.swift in Sources */,
 				1C951D3F233E3DC600BA03A6 /* SceneDelegate.swift in Sources */,
+				1CF2A1BC234481BD0081CA3A /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
