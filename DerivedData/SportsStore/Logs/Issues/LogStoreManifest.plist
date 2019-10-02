@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>3B4BF58C-7221-4217-91FA-4E3E4BB040CC</key>
+		<key>66B692BA-EE86-436F-96F9-8658A587E1C5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>3B4BF58C-7221-4217-91FA-4E3E4BB040CC.xcactivitylog</string>
+			<string>66B692BA-EE86-436F-96F9-8658A587E1C5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>SportsStore-asaasabfwuuvmygpjpvelrmcxiwf</string>
 			<key>timeStartedRecording</key>
-			<real>591328739.51955795</real>
+			<real>591348412.92580295</real>
 			<key>timeStoppedRecording</key>
-			<real>591328741.39699602</real>
+			<real>591348420.25504899</real>
 			<key>title</key>
 			<string>Build target SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>3B4BF58C-7221-4217-91FA-4E3E4BB040CC</string>
+			<string>66B692BA-EE86-436F-96F9-8658A587E1C5</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
