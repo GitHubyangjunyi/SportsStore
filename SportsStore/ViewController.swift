@@ -17,6 +17,8 @@ class ProductTableCell: UITableViewCell {
     var product: Product?
 }
 
+    var handler = {(p: Product) in print("Change: \(p.name) \(p.stockLevel) items in stock")}
+
 class ViewController: UIViewController,UITableViewDataSource {
     
     override func viewDidLoad() {
@@ -29,6 +31,9 @@ class ViewController: UIViewController,UITableViewDataSource {
     @IBOutlet weak var totalStockLabel: UILabel!
     @IBOutlet weak var tableView: UITableView!
     
+    // MARK: 日志
+    let logger = Logger<Product>(callback: handler)
+    
     // MARK: 实现数据源协议
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return products.count
@@ -39,7 +44,7 @@ class ViewController: UIViewController,UITableViewDataSource {
         let cell = tableView.dequeueReusableCell(withIdentifier: "ProductCell")as! ProductTableCell
         cell.product = products[indexPath.row]
         cell.nameLabel.text = product.name
-        cell.descriptionLabel.text = product.description
+        cell.descriptionLabel.text = product.productDescription
         cell.stockStepper.value = Double(product.stockLevel)
         cell.stockField.text = String(product.stockLevel)
         return cell
@@ -73,6 +78,7 @@ class ViewController: UIViewController,UITableViewDataSource {
                         }
                         cell.stockStepper.value = Double(product.stockLevel)
                         cell.stockField.text = String(product.stockLevel)
+                        Logger.logItem(product)
                     }
                     break
                 }
@@ -86,5 +92,6 @@ class ViewController: UIViewController,UITableViewDataSource {
         //使用元组可以在reduce函数每次迭代时生成两个总量,一是库存总量,二是价值总量
         totalStockLabel.text = "\(finalTotals.0) Products in Stock." + "Total Value: \(Utils.currencyStringFromNumber(number: finalTotals.1))"
     }
+    
 }
 
