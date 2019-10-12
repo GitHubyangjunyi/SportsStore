@@ -78,7 +78,7 @@ class ViewController: UIViewController,UITableViewDataSource {
                         }
                         cell.stockStepper.value = Double(product.stockLevel)
                         cell.stockField.text = String(product.stockLevel)
-                        Logger.logItem(product)
+                        logger.logItem(item: product)
                     }
                     break
                 }
