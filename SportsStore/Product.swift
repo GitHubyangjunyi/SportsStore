@@ -50,10 +50,6 @@ class Product: NSObject, NSCopying{
         self.price = price
         self.stockLevel = stockLevel
     }
-
-    func copyWithZone(zone: NSZone) -> AnyObject {
-        return Product(name: self.name, description: self.description, category: self.category, price: self.price, stockLevel: self.stockLevel)
-    }
     
     func copy(with zone: NSZone? = nil) -> Any {
          return Product(name: self.name, description: self.description, category: self.category, price: self.price, stockLevel: self.stockLevel)
@@ -62,4 +58,4 @@ class Product: NSObject, NSCopying{
 }
 
 //private(set)表示同一模块中的其他文件的代码可以获取该属性值,但是只有Product.swift文件中的代码可以对其进行赋值,这里的目的是限制这些属性只能通过初始化器赋值
-//private限制为只能在当前文件中访问
+//privatefile限制为只能在当前文件中访问
