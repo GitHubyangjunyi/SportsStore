@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0CF15486-E4BC-4F20-9C04-1ABE78324F92</key>
+		<key>1DA0B793-1A23-4487-8E85-F994D3BF64BD</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,109 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0CF15486-E4BC-4F20-9C04-1ABE78324F92.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SportsStore project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SportsStore</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SportsStore</string>
-			<key>timeStartedRecording</key>
-			<real>593916392.95883906</real>
-			<key>timeStoppedRecording</key>
-			<real>593916396.71704805</real>
-			<key>title</key>
-			<string>Build SportsStore</string>
-			<key>uniqueIdentifier</key>
-			<string>0CF15486-E4BC-4F20-9C04-1ABE78324F92</string>
-		</dict>
-		<key>11E24435-284B-46B0-840D-75EE71ED7B62</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>11E24435-284B-46B0-840D-75EE71ED7B62.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SportsStore project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SportsStore</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SportsStore</string>
-			<key>timeStartedRecording</key>
-			<real>593916837.72422898</real>
-			<key>timeStoppedRecording</key>
-			<real>593916838.83212805</real>
-			<key>title</key>
-			<string>Build SportsStore</string>
-			<key>uniqueIdentifier</key>
-			<string>11E24435-284B-46B0-840D-75EE71ED7B62</string>
-		</dict>
-		<key>19A03C44-999B-4072-AE4D-9AA4A63B5AC6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>19A03C44-999B-4072-AE4D-9AA4A63B5AC6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SportsStore project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SportsStore</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SportsStore</string>
-			<key>timeStartedRecording</key>
-			<real>593868758.25745201</real>
-			<key>timeStoppedRecording</key>
-			<real>593868761.02723801</real>
-			<key>title</key>
-			<string>Build SportsStore</string>
-			<key>uniqueIdentifier</key>
-			<string>19A03C44-999B-4072-AE4D-9AA4A63B5AC6</string>
-		</dict>
-		<key>1E817B08-E7DF-4DCB-8658-CEB38164106A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1E817B08-E7DF-4DCB-8658-CEB38164106A.xcactivitylog</string>
+			<string>1DA0B793-1A23-4487-8E85-F994D3BF64BD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +32,15 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916384.36700296</real>
+			<real>593944698.87456405</real>
 			<key>timeStoppedRecording</key>
-			<real>593916385.05206203</real>
+			<real>593944699.505023</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>1E817B08-E7DF-4DCB-8658-CEB38164106A</string>
+			<string>1DA0B793-1A23-4487-8E85-F994D3BF64BD</string>
 		</dict>
-		<key>23F9EE9C-8012-4609-B621-1BBB7615FA27</key>
+		<key>1E000739-F73F-4B6E-A030-7D99E6781275</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,7 +49,279 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>23F9EE9C-8012-4609-B621-1BBB7615FA27.xcactivitylog</string>
+			<string>1E000739-F73F-4B6E-A030-7D99E6781275.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>593944446.09758997</real>
+			<key>timeStoppedRecording</key>
+			<real>593944447.47764397</real>
+			<key>title</key>
+			<string>Build SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>1E000739-F73F-4B6E-A030-7D99E6781275</string>
+		</dict>
+		<key>22102F1D-4ED9-457A-A71C-792AF3566AC8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22102F1D-4ED9-457A-A71C-792AF3566AC8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>593945734.72738194</real>
+			<key>timeStoppedRecording</key>
+			<real>593945735.412907</real>
+			<key>title</key>
+			<string>Build SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>22102F1D-4ED9-457A-A71C-792AF3566AC8</string>
+		</dict>
+		<key>2BE213DD-E58D-4319-8263-35EF99D92354</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2BE213DD-E58D-4319-8263-35EF99D92354.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>593948004.27040803</real>
+			<key>timeStoppedRecording</key>
+			<real>593948005.46722806</real>
+			<key>title</key>
+			<string>Build SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>2BE213DD-E58D-4319-8263-35EF99D92354</string>
+		</dict>
+		<key>2C707907-2B7E-49BF-AA32-27AC23C648C9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C707907-2B7E-49BF-AA32-27AC23C648C9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>593944810.20369601</real>
+			<key>timeStoppedRecording</key>
+			<real>593944810.24146998</real>
+			<key>title</key>
+			<string>Build SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>2C707907-2B7E-49BF-AA32-27AC23C648C9</string>
+		</dict>
+		<key>2DD8A04A-35CE-4F45-BA61-31B28B67AC3F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2DD8A04A-35CE-4F45-BA61-31B28B67AC3F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>593942929.21666396</real>
+			<key>timeStoppedRecording</key>
+			<real>593942930.57581198</real>
+			<key>title</key>
+			<string>Build SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>2DD8A04A-35CE-4F45-BA61-31B28B67AC3F</string>
+		</dict>
+		<key>3AC061AE-F1D5-4A63-A443-6EDD10216C5B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3AC061AE-F1D5-4A63-A443-6EDD10216C5B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>593944806.57287598</real>
+			<key>timeStoppedRecording</key>
+			<real>593944807.78303194</real>
+			<key>title</key>
+			<string>Build SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>3AC061AE-F1D5-4A63-A443-6EDD10216C5B</string>
+		</dict>
+		<key>5229D744-5355-4BBA-8676-82C2209BC859</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5229D744-5355-4BBA-8676-82C2209BC859.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>593943364.23861396</real>
+			<key>timeStoppedRecording</key>
+			<real>593943365.36373401</real>
+			<key>title</key>
+			<string>Build SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>5229D744-5355-4BBA-8676-82C2209BC859</string>
+		</dict>
+		<key>5927AE71-1751-48C4-BADB-60021DA2EB6A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5927AE71-1751-48C4-BADB-60021DA2EB6A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>593943956.09485102</real>
+			<key>timeStoppedRecording</key>
+			<real>593943957.01605499</real>
+			<key>title</key>
+			<string>Build SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>5927AE71-1751-48C4-BADB-60021DA2EB6A</string>
+		</dict>
+		<key>5DCDA7C5-90FE-4911-9D48-D71DBF521ED2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5DCDA7C5-90FE-4911-9D48-D71DBF521ED2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +338,15 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916185.65848303</real>
+			<real>593942913.44232404</real>
 			<key>timeStoppedRecording</key>
-			<real>593916186.01142097</real>
+			<real>593942913.84151304</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>23F9EE9C-8012-4609-B621-1BBB7615FA27</string>
+			<string>5DCDA7C5-90FE-4911-9D48-D71DBF521ED2</string>
 		</dict>
-		<key>435E9A7F-2CBE-4334-B52E-BF3936D7B0B3</key>
+		<key>67B91A3C-610A-469B-8A97-5EEB3FE9A63D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,75 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>435E9A7F-2CBE-4334-B52E-BF3936D7B0B3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SportsStore project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SportsStore</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SportsStore</string>
-			<key>timeStartedRecording</key>
-			<real>593916491.90836</real>
-			<key>timeStoppedRecording</key>
-			<real>593916492.26923096</real>
-			<key>title</key>
-			<string>Build SportsStore</string>
-			<key>uniqueIdentifier</key>
-			<string>435E9A7F-2CBE-4334-B52E-BF3936D7B0B3</string>
-		</dict>
-		<key>46F30E90-3AEE-49B5-9390-DB3F5DC920E4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>46F30E90-3AEE-49B5-9390-DB3F5DC920E4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SportsStore project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SportsStore</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SportsStore</string>
-			<key>timeStartedRecording</key>
-			<real>593916746.83008301</real>
-			<key>timeStoppedRecording</key>
-			<real>593916747.71141398</real>
-			<key>title</key>
-			<string>Build SportsStore</string>
-			<key>uniqueIdentifier</key>
-			<string>46F30E90-3AEE-49B5-9390-DB3F5DC920E4</string>
-		</dict>
-		<key>5E5F468A-489F-43C4-B022-32713ADC4EF7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5E5F468A-489F-43C4-B022-32713ADC4EF7.xcactivitylog</string>
+			<string>67B91A3C-610A-469B-8A97-5EEB3FE9A63D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +372,15 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916961.88940704</real>
+			<real>593928053.60209799</real>
 			<key>timeStoppedRecording</key>
-			<real>593916961.93149495</real>
+			<real>593928054.49273098</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>5E5F468A-489F-43C4-B022-32713ADC4EF7</string>
+			<string>67B91A3C-610A-469B-8A97-5EEB3FE9A63D</string>
 		</dict>
-		<key>630BBE39-4465-402B-B8E4-16595A6FDE57</key>
+		<key>6C7A5591-A1C6-4709-9EE4-708A89D0AA61</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -287,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>630BBE39-4465-402B-B8E4-16595A6FDE57.xcactivitylog</string>
+			<string>6C7A5591-A1C6-4709-9EE4-708A89D0AA61.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +406,15 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916882.36944401</real>
+			<real>593948019.83296096</real>
 			<key>timeStoppedRecording</key>
-			<real>593916882.41115797</real>
+			<real>593948021.03906</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>630BBE39-4465-402B-B8E4-16595A6FDE57</string>
+			<string>6C7A5591-A1C6-4709-9EE4-708A89D0AA61</string>
 		</dict>
-		<key>669B5E3C-C02D-404A-9281-2A6CC3350945</key>
+		<key>7D84873A-185F-444A-AA9A-39D6A7CF78FE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -321,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>669B5E3C-C02D-404A-9281-2A6CC3350945.xcactivitylog</string>
+			<string>7D84873A-185F-444A-AA9A-39D6A7CF78FE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +440,15 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916498.36259198</real>
+			<real>593943879.82824898</real>
 			<key>timeStoppedRecording</key>
-			<real>593916499.30412304</real>
+			<real>593943879.87442994</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>669B5E3C-C02D-404A-9281-2A6CC3350945</string>
+			<string>7D84873A-185F-444A-AA9A-39D6A7CF78FE</string>
 		</dict>
-		<key>67BBB785-7111-4267-87B5-8B42F3E5CC1B</key>
+		<key>8CF581DA-89B3-497D-B483-D899445AA137</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -355,7 +457,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>67BBB785-7111-4267-87B5-8B42F3E5CC1B.xcactivitylog</string>
+			<string>8CF581DA-89B3-497D-B483-D899445AA137.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +474,15 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916907.43815899</real>
+			<real>593943877.642519</real>
 			<key>timeStoppedRecording</key>
-			<real>593916913.77483594</real>
+			<real>593943878.54316497</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>67BBB785-7111-4267-87B5-8B42F3E5CC1B</string>
+			<string>8CF581DA-89B3-497D-B483-D899445AA137</string>
 		</dict>
-		<key>75D62E0A-66D8-4136-943F-57F6E7EBA011</key>
+		<key>A0823C40-CF30-4234-9D10-A2E52489D233</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -389,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>75D62E0A-66D8-4136-943F-57F6E7EBA011.xcactivitylog</string>
+			<string>A0823C40-CF30-4234-9D10-A2E52489D233.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +508,15 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916957.83946002</real>
+			<real>593943554.63158298</real>
 			<key>timeStoppedRecording</key>
-			<real>593916957.90845704</real>
+			<real>593943554.67101097</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>75D62E0A-66D8-4136-943F-57F6E7EBA011</string>
+			<string>A0823C40-CF30-4234-9D10-A2E52489D233</string>
 		</dict>
-		<key>90A4C629-4A8F-4BC6-AF94-D1ABCA1BFD3D</key>
+		<key>ACFC0DD0-64E8-4074-931E-A5B4185B4586</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -423,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>90A4C629-4A8F-4BC6-AF94-D1ABCA1BFD3D.xcactivitylog</string>
+			<string>ACFC0DD0-64E8-4074-931E-A5B4185B4586.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,15 +542,15 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916537.56238306</real>
+			<real>593943462.13126194</real>
 			<key>timeStoppedRecording</key>
-			<real>593916538.39441597</real>
+			<real>593943463.26678598</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>90A4C629-4A8F-4BC6-AF94-D1ABCA1BFD3D</string>
+			<string>ACFC0DD0-64E8-4074-931E-A5B4185B4586</string>
 		</dict>
-		<key>9A2A710A-B543-4406-AF2F-EFD382BD396A</key>
+		<key>E1EC87F3-D321-4AF7-A8E5-3FB87C5C5F8A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -457,75 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9A2A710A-B543-4406-AF2F-EFD382BD396A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SportsStore project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SportsStore</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SportsStore</string>
-			<key>timeStartedRecording</key>
-			<real>593916789.86265504</real>
-			<key>timeStoppedRecording</key>
-			<real>593916790.46739697</real>
-			<key>title</key>
-			<string>Build SportsStore</string>
-			<key>uniqueIdentifier</key>
-			<string>9A2A710A-B543-4406-AF2F-EFD382BD396A</string>
-		</dict>
-		<key>A2C27DC6-600C-44D7-9809-647896E7541B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A2C27DC6-600C-44D7-9809-647896E7541B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SportsStore project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SportsStore</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SportsStore</string>
-			<key>timeStartedRecording</key>
-			<real>593916754.01984203</real>
-			<key>timeStoppedRecording</key>
-			<real>593916754.63319504</real>
-			<key>title</key>
-			<string>Build SportsStore</string>
-			<key>uniqueIdentifier</key>
-			<string>A2C27DC6-600C-44D7-9809-647896E7541B</string>
-		</dict>
-		<key>B4B03297-09D8-48E2-A75F-A714B7C56817</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B4B03297-09D8-48E2-A75F-A714B7C56817.xcactivitylog</string>
+			<string>E1EC87F3-D321-4AF7-A8E5-3FB87C5C5F8A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +576,15 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916840.56413102</real>
+			<real>593947959.21163404</real>
 			<key>timeStoppedRecording</key>
-			<real>593916840.59925997</real>
+			<real>593947960.460958</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>B4B03297-09D8-48E2-A75F-A714B7C56817</string>
+			<string>E1EC87F3-D321-4AF7-A8E5-3FB87C5C5F8A</string>
 		</dict>
-		<key>EE4E2CC5-954F-4887-BB14-4E18614DDA00</key>
+		<key>E44A86E2-4CA3-41DF-B430-8502D51E33C2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -559,13 +593,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EE4E2CC5-954F-4887-BB14-4E18614DDA00.xcactivitylog</string>
+			<string>E44A86E2-4CA3-41DF-B430-8502D51E33C2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>SportsStore project</string>
@@ -576,13 +610,47 @@
 			<key>signature</key>
 			<string>Build SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593916262.94610298</real>
+			<real>593947302.264974</real>
 			<key>timeStoppedRecording</key>
-			<real>593916263.63373196</real>
+			<real>593947303.53811896</real>
 			<key>title</key>
 			<string>Build SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>EE4E2CC5-954F-4887-BB14-4E18614DDA00</string>
+			<string>E44A86E2-4CA3-41DF-B430-8502D51E33C2</string>
+		</dict>
+		<key>F54BE8AA-BBF7-4E3D-BE30-5654E2F5B9B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F54BE8AA-BBF7-4E3D-BE30-5654E2F5B9B6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>593945718.85072601</real>
+			<key>timeStoppedRecording</key>
+			<real>593945720.08391404</real>
+			<key>title</key>
+			<string>Build SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>F54BE8AA-BBF7-4E3D-BE30-5654E2F5B9B6</string>
 		</dict>
 	</dict>
 </dict>
