@@ -17,8 +17,6 @@ class ProductTableCell: UITableViewCell {
     var product: Product?
 }
 
-    var handler = {(p: Product) in print("Change: \(p.name) \(p.stockLevel) items in stock")}
-
 class ViewController: UIViewController,UITableViewDataSource {
     
     override func viewDidLoad() {
@@ -30,9 +28,6 @@ class ViewController: UIViewController,UITableViewDataSource {
     // MARK: 关联到视图
     @IBOutlet weak var totalStockLabel: UILabel!
     @IBOutlet weak var tableView: UITableView!
-    
-    // MARK: 日志
-    let logger = Logger<Product>(callback: handler)
     
     // MARK: 实现数据源协议
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -78,7 +73,7 @@ class ViewController: UIViewController,UITableViewDataSource {
                         }
                         cell.stockStepper.value = Double(product.stockLevel)
                         cell.stockField.text = String(product.stockLevel)
-                        logger.logItem(item: product)
+                        productLogger.logItem(item: product)
                     }
                     break
                 }
