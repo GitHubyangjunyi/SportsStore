@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0DD290C1-CE2A-4311-9A50-8EF52064CC32</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0DD290C1-CE2A-4311-9A50-8EF52064CC32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594303713.43895805</real>
+			<key>timeStoppedRecording</key>
+			<real>594303778.06025302</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>0DD290C1-CE2A-4311-9A50-8EF52064CC32</string>
+		</dict>
 		<key>0FE24E7E-2943-440F-9FDB-88A4CD5D882C</key>
 		<dict>
 			<key>className</key>
@@ -40,7 +74,7 @@
 			<key>uniqueIdentifier</key>
 			<string>0FE24E7E-2943-440F-9FDB-88A4CD5D882C</string>
 		</dict>
-		<key>628F5D86-14C9-450B-96D0-C621C6CC10D1</key>
+		<key>1FA9A78B-E926-4438-AA2A-501D933EBE0D</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>628F5D86-14C9-450B-96D0-C621C6CC10D1.xcactivitylog</string>
+			<string>1FA9A78B-E926-4438-AA2A-501D933EBE0D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +100,353 @@
 			<key>signature</key>
 			<string>Debug SportsStore</string>
 			<key>timeStartedRecording</key>
-			<real>593948021.04131901</real>
+			<real>594303242.46420896</real>
 			<key>timeStoppedRecording</key>
-			<real>593948045.37053597</real>
+			<real>594303272.49071705</real>
 			<key>title</key>
 			<string>Debug SportsStore</string>
 			<key>uniqueIdentifier</key>
-			<string>628F5D86-14C9-450B-96D0-C621C6CC10D1</string>
+			<string>1FA9A78B-E926-4438-AA2A-501D933EBE0D</string>
+		</dict>
+		<key>28440B94-37B6-4E6A-A4F8-160B7D111F98</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>28440B94-37B6-4E6A-A4F8-160B7D111F98.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594302219.68004</real>
+			<key>timeStoppedRecording</key>
+			<real>594302293.98145401</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>28440B94-37B6-4E6A-A4F8-160B7D111F98</string>
+		</dict>
+		<key>2B7FE037-EB01-44CA-B3DE-E37E74C2DE15</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2B7FE037-EB01-44CA-B3DE-E37E74C2DE15.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594303638.86531496</real>
+			<key>timeStoppedRecording</key>
+			<real>594303680.11394596</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>2B7FE037-EB01-44CA-B3DE-E37E74C2DE15</string>
+		</dict>
+		<key>340F1643-26AB-47DB-9990-272F669B9101</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>340F1643-26AB-47DB-9990-272F669B9101.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594303292.44898105</real>
+			<key>timeStoppedRecording</key>
+			<real>594303336.93481302</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>340F1643-26AB-47DB-9990-272F669B9101</string>
+		</dict>
+		<key>34C59D8D-C7E6-495A-B750-DF0121675233</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>34C59D8D-C7E6-495A-B750-DF0121675233.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594302165.34106898</real>
+			<key>timeStoppedRecording</key>
+			<real>594302219.07764995</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>34C59D8D-C7E6-495A-B750-DF0121675233</string>
+		</dict>
+		<key>4541E49C-57F7-443D-9073-14DF059F27BE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4541E49C-57F7-443D-9073-14DF059F27BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594302888.36177802</real>
+			<key>timeStoppedRecording</key>
+			<real>594303242.67146695</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>4541E49C-57F7-443D-9073-14DF059F27BE</string>
+		</dict>
+		<key>4A7D470C-C48B-48F8-A156-8FF1690446F7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4A7D470C-C48B-48F8-A156-8FF1690446F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594303681.18079197</real>
+			<key>timeStoppedRecording</key>
+			<real>594303708.43425095</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>4A7D470C-C48B-48F8-A156-8FF1690446F7</string>
+		</dict>
+		<key>706D2097-C88E-4A4F-9AB4-52991B0E5B86</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>706D2097-C88E-4A4F-9AB4-52991B0E5B86.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594303337.37977302</real>
+			<key>timeStoppedRecording</key>
+			<real>594303438.30286801</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>706D2097-C88E-4A4F-9AB4-52991B0E5B86</string>
+		</dict>
+		<key>7DE1072D-B593-4688-8B1E-02AF31249791</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7DE1072D-B593-4688-8B1E-02AF31249791.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594303438.73630404</real>
+			<key>timeStoppedRecording</key>
+			<real>594303626.44100296</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>7DE1072D-B593-4688-8B1E-02AF31249791</string>
+		</dict>
+		<key>913A2B6B-5A58-4997-8F3F-E271AB284959</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>913A2B6B-5A58-4997-8F3F-E271AB284959.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594303273.96853697</real>
+			<key>timeStoppedRecording</key>
+			<real>594303288.03300297</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>913A2B6B-5A58-4997-8F3F-E271AB284959</string>
+		</dict>
+		<key>96C3D440-7C6B-43E1-A20F-DB650FB2AA12</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>96C3D440-7C6B-43E1-A20F-DB650FB2AA12.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SportsStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SportsStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SportsStore</string>
+			<key>timeStartedRecording</key>
+			<real>594300761.75913405</real>
+			<key>timeStoppedRecording</key>
+			<real>594302165.54419994</real>
+			<key>title</key>
+			<string>Debug SportsStore</string>
+			<key>uniqueIdentifier</key>
+			<string>96C3D440-7C6B-43E1-A20F-DB650FB2AA12</string>
 		</dict>
 	</dict>
 </dict>
